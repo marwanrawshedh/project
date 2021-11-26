@@ -1,0 +1,28 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "module/pickup.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marwanrawshedh/caps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marwanrawshedh/caps/issues"
+  },
+  "homepage": "https://github.com/marwanrawshedh/caps#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3",
+    "jest": "^27.3.1",
+    "socket.io": "^4.3.2",
+    "socket.io-client": "^4.3.2",
+    "uuid": "^8.3.2"
+  }
+}
